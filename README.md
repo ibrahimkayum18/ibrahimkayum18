@@ -2,9 +2,14 @@
 
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-##My last 3 projects
-- A project where you can buy and sell property [Real State Property Selling Project](https://final-assignment-136ef.web.app/)
-
+<h3 align="left">My Projects:</h3>
+<h2 align="left">Real State Property Selling Project</h2>
+ A project where you can buy and sell real state property.
+Here we have a user, agent and admin panel.
+User can buy properties, and give their reviews on any properties.
+Users can offer a price to any property, and the agent will accept or deny the offer. Agent can post property and admin can verify the property. Only verified properties will show on all property pages. Admin can create an agent.
+ CLick to see the website <a href="https://final-assignment-136ef.web.app/">Real State Property Selling Project</a>
+<h2 align="left">Job Hunting Website</h2>
 - A project where you can post your organizations job and you can apply others posted job [Job Hunting](https://keen-stage.surge.sh/)
 
 - A project where you can buy any branded electronics. [Shopify](https://internal-car.surge.sh/)
