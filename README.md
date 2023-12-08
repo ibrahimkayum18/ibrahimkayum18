@@ -1,4 +1,4 @@
-![logo](https://github.com/ibrahimkayum18/ibrahimkayum18/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
+![logo](https://github.com/ibrahimkayum18/ibrahimkayum18/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)
 
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
