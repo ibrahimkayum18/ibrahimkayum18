@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm S M Ibrahim Kayum</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkayum18" alt="ibrahimkayum18" /></a> </p>
 
 - A project where you can buy and sell property [Real State Property Selling Project](https://final-assignment-136ef.web.app/)
 
