@@ -13,10 +13,9 @@ Users can offer a price to any property, and the agent will accept or deny the o
 A project where you can search for any job and you can apply on any kind of job in the website. You eligible to post a job for your organization. you can not apply the job which posted by you. Click to see the web site <a href="https://keen-stage.surge.sh/">Job Hunting</a>
 <h3 align="left">Shop Branded Electronics</h3>
 A project where you can buy 6 branded products. Here you can choose your specific brand to purchase the product. you can not see the selected product withought log in. Click to see the website <a href="https://internal-car.surge.sh/">Shopify</a>
-
-- 📫 How to reach me **ibrahimkayum017@gmail.com**
-
-<img aligh="right" alt="code" src="[![image](https://github.com/ibrahimkayum18/ibrahimkayum18/assets/52647291/c36f0777-fb03-4628-b937-55c0ff38b6d6)](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)" />
+<br><br>
+ 
+ -📫 How to reach me **ibrahimkayum017@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
