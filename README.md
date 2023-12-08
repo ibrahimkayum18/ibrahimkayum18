@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Sample Image](https://i.ibb.co/JQmB9Pv/Blue-Pink-Gradient-Fashion-Banner-1.png)
 
 <!--
 **ibrahimkayum18/ibrahimkayum18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
