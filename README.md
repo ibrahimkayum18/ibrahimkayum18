@@ -2,17 +2,17 @@
 
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<h3 align="left">My Projects:</h3>
-<h2 align="left">Real State Property Selling Project</h2>
+<h2 align="left">My Projects:</h2>
+<h3 align="left">Real State Property Selling Project</h3>
  A project where you can buy and sell real state property.
 Here we have a user, agent and admin panel.
 User can buy properties, and give their reviews on any properties.
 Users can offer a price to any property, and the agent will accept or deny the offer. Agent can post property and admin can verify the property. Only verified properties will show on all property pages. Admin can create an agent.
- CLick to see the website <a href="https://final-assignment-136ef.web.app/">Real State Property Selling Project</a>
-<h2 align="left">Job Hunting Website</h2>
-- A project where you can post your organizations job and you can apply others posted job [Job Hunting](https://keen-stage.surge.sh/)
-
-- A project where you can buy any branded electronics. [Shopify](https://internal-car.surge.sh/)
+ Click to see the website <a href="https://final-assignment-136ef.web.app/">Real State Property Selling Project</a>
+<h3 align="left">Job Hunting Website</h3>
+A project where you can search for any job and you can apply on any kind of job in the website. You eligible to post a job for your organization. you can not apply the job which posted by you. Click to see the web site <a href="https://keen-stage.surge.sh/">Job Hunting</a>
+<h3 align="left">Shop Branded Electronics</h3>
+A project where you can buy 6 branded products. Here you can choose your specific brand to purchase the product. you can not see the selected product withought log in. Click to see the website <a href="https://internal-car.surge.sh/">Shopify</a>
 
 - 📫 How to reach me **ibrahimkayum017@gmail.com**
 
