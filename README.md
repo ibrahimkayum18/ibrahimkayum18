@@ -13,13 +13,10 @@
 
 <img aligh="right" alt="code" src="[![image](https://github.com/ibrahimkayum18/ibrahimkayum18/assets/52647291/c36f0777-fb03-4628-b937-55c0ff38b6d6)](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)" />
 
-<div align="center">
-  ![coding](https://github.com/ibrahimkayum18/ibrahimkayum18/blob/main/cgif.gif)
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-kayum-972707207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-kayum-972707207/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-kayum-972707207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-kayum-972707207/" height="30" width="40" /></a> <br>
 <a href="https://fb.com/https://www.facebook.com/smibrahim.kayum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/smibrahim.kayum" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages I often use:</h3>
