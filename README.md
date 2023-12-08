@@ -3,9 +3,6 @@
 
 <img align="right" alt="coding" src="![image](https://github.com/ibrahimkayum18/ibrahimkayum18/assets/52647291/4cb11bfa-0934-4b91-8544-12991e59efcf)" >
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkayum18" alt="ibrahimkayum18" /></a> </p>
-
 - 🔭 I’m currently working on [Real State Property Selling Project](https://final-assignment-136ef.web.app/)
 
 - 📫 How to reach me **ibrahimkayum017@gmail.com**
