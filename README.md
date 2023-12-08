@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm S M Ibrahim Kayum</h1>
+![logo](https://github.com/ibrahimkayum18/ibrahimkayum18/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
+
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 
