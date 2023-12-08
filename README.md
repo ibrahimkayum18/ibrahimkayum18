@@ -13,6 +13,9 @@
 
 <img aligh="right" alt="code" src="[![image](https://github.com/ibrahimkayum18/ibrahimkayum18/assets/52647291/c36f0777-fb03-4628-b937-55c0ff38b6d6)](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)" />
 
+<div align="center">
+  ![coding](https://github.com/ibrahimkayum18/ibrahimkayum18/blob/main/cgif.gif)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
